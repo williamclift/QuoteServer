@@ -1,0 +1,5 @@
+h,Happy
+r,Reflective
+c,Nerdy_Computer
+m,Nerdy_Math
+w,By_William

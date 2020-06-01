@@ -1,0 +1,29 @@
+h"The most important thing is to enjoy your life-to be happy. It's all that matters." - Audrey Hepburn
+h"Count your age by friends, not years. Count your life by smiles, not tears." - John Lennon
+h"Every day is a new day." - Carrie Underwood
+h"Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom." - Marcel Proust
+h"Be happy with what you have. Be excited about what you want." - Alan Cohen
+h"If you want to be happy, be." - Leo Tolstoy
+h"The only thing that will make you happy is being happy with who you are, and not who people think you are." - Goldie Hawn
+h"Happiness comes in waves. It'll find you again"
+r"The more reflective you are, the more effective you are" - Pete Hall
+r"Everything in your life is a reflection of a choice you have made. If you want a different result, make a different choice." - a Wise Human
+r"Time spent in self-reflection is never wasted-it is an intimate date with yourself" - Paul TP Wong
+r"Reflective thinking turns experience into insight" - Paul C. Maxwell
+r"Without deep reflection, one knows from daily life that one exists for other people." - Albert Einstein
+c"To err is human, but to real foul things up you need a computer." - Paul R. Ehrlich
+c"Computer Science is a science of abstraction - creating the right model for a problem and devising the appropriate mechanizable techniques to solve it." - Alfred Aho
+c"Computer Science is no more about computers than astronomy is about telescopes." - Edsger Dijkstra (This one is really good!)
+c"Computer Science is the operating system for all innovation" - Steve Ballmer
+c"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones." - Donald Knuth
+m"Mathematics is not about numbers, equations, computations, or algorithms: it is about UNDERSTANDING." - William Paul Thurston
+m"Pure Mathematics is, in its own way, the poetry of logical ideas." - Albert Einstein
+m"Math is the only place where truth and beauty mean the same thing." - Danica McKellar
+m"Math is the language of the universe. So the more equations you know, the more you can converse with the cosmos." - Neil deGrasse Tyson
+m"'Obvious' is the most dangerous word in mathematics." - E.T. Bell
+w"Live your life, your dream, and your finest." - William :)
+w"Operating Systems class makes me happy." - William :)
+w"Sometimes, debugging is self-care." - William :)
+w"Beethoven is a serious reason to wake up in the morning." - William :)
+w"Rain = Growth." - William :) (I wrote this while it was raining)
+w"My comprehensive life plan is to be better today than I was yesterday, and better tomorrow than I am today." - William :)
